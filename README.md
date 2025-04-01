@@ -1,5 +1,7 @@
 # RAG Application using Streamlit and Langchain
 
+![Banner](doc/screen-record.gif)
+
 This project is a Retrieval-Augmented Generation (RAG) application built using Streamlit and Langchain. The application allows users to retrieve information from various document formats including PDF, DOC, XLS, and TXT files.
 
 ## Project Structure
